@@ -1,0 +1,6 @@
+=== ANTHROPIC SDK PYTHON (últimos 5 commits) ===
+2026-03-18T18:30:27Z - release: 0.86.0
+2026-03-18T18:29:52Z - feat(api): manual updates - /v1/models capabilities expansion
+2026-03-18T06:24:14Z - feat(api): manual updates
+2026-03-17T17:37:43Z - feat: add support for filesystem memory tools (#1247)
+2026-03-16T20:50:23Z - chore(internal): tweak CI branches

@@ -1,0 +1,4 @@
+=== OPENCLAW (últimos 5 commits) ===
+2026-03-20 - Gateway updates and channel improvements
+2026-03-18 - Mobile node pairing enhancements
+2026-03-15 - Security and authentication updates
