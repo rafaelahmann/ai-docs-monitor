@@ -87,7 +87,7 @@ Termos de Serviço
 Regiões disponíveis
 Monitoramento de abuso
 Informações de feedback
-Teste o Lyria 3, nosso novo modelo de geração de músicas capaz de produzir áudio estéreo de alta fidelidade com base em entradas de texto e imagem.
+Teste o novo modelo de áudio para áudio do Gemini 3.1 Flash Live no AI Studio.
 Página inicial
 Gemini API
 Documentos

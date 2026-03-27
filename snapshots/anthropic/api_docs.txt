@@ -44,7 +44,17 @@ Embeddings
 Vision
 Tools
 Overview
-How to implement tool use
+How tool use works
+Tutorial: Build a tool-using agent
+Define tools
+Handle tool calls
+Parallel tool use
+Tool Runner (SDK)
+Strict tool use
+Tool use with prompt caching
+Server tools
+Troubleshooting
+Tool reference
 Web search tool
 Web fetch tool
 Code execution tool
@@ -53,6 +63,8 @@ Bash tool
 Computer use tool
 Text editor tool
 Tool infrastructure
+Manage tool context
+Tool combinations
 Tool search
 Programmatic tool calling
 Fine-grained tool streaming
@@ -69,6 +81,7 @@ Overview
 Quickstart
 Best practices
 Skills for enterprise
+Claude API skill
 Using Skills with the API
 Agent SDK
 Overview
@@ -103,7 +116,7 @@ Data residency
 Workspaces
 Usage and Cost API
 Claude Code Analytics API
-Zero Data Retention
+API and data retention
 Console
 Claude Platform
 Start building
