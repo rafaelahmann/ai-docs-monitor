@@ -20,6 +20,7 @@ Bibliotecas
 Preço
 API Batch
 API Interactions
+Configuração do agente de programação
 Modelos
 Todos os modelos
 Gemini 3
@@ -62,7 +63,6 @@ Gerenciamento de sessões
 Tokens temporários
 Práticas recomendadas
 Guias
-Habilidades de programação do agente
 Entrada de arquivo
 O armazenamento em cache de contexto
 Compatibilidade com o OpenAI
