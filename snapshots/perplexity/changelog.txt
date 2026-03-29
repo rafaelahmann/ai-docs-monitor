@@ -16,6 +16,14 @@ Ask anything
 
 What's new?
 
+03.27.26
+
+Comet iOS Launch and Computer Updates - March 27, 2026
+
+This week we shipped Comet iOS, many Computer updates for individuals and enterprise, multimodal Deep Research, and Health Computer.
+
+See changes
+
 03.13.26
 
 What We Shipped - March 13, 2026
@@ -53,14 +61,6 @@ See changes
 What We Shipped - February 13, 2026
 
 This week Perplexity launched Deep Research with Opus 4.6, added memory to Model Council, improved history search, revamped stock graphs in answers on Android, and recently added Kimi K2.5 Thinking.
-
-See changes
-
-02.06.26
-
-What We Shipped - February 6th, 2026
-
-This week Perplexity launched upgraded Deep Research, Model Council, a simplified input bar, step-by-step learning, improved memory, a finance heatmap, Opus 4.6 for Comet, and new Enterprise security controls.
 
 See changes
 

@@ -1,0 +1,55 @@
+=== ANTHROPIC SDK PYTHON (últimos 25 commits) ===
+2026-03-18 - release: 0.86.0
+2026-03-18 - feat(api): manual updates
+2026-03-18 - feat(api): manual updates
+2026-03-17 - feat: add support for filesystem memory tools (#1247)
+2026-03-16 - chore(internal): tweak CI branches
+2026-03-16 - fix(deps): bump minimum typing-extensions version
+2026-03-16 - fix(pydantic): do not pass `by_alias` unless set
+2026-03-16 - fix: AsyncAnthropic._make_status_error missing 529 and 413 cases (#1244)
+2026-03-16 - release: 0.85.0
+2026-03-16 - feat(api): GA thinking-display-setting
+2026-03-11 - fix(client): add missing 413 and 529 error handlers to async client (#1554)
+2026-03-09 - codegen metadata
+2026-03-07 - chore(internal): codegen related update
+2026-03-05 - revert changes to tool params
+2026-03-05 - chore(internal): codegen related update
+2026-03-04 - chore(tests): unskip tests that are now supported in steady
+2026-03-04 - feat(api): chore(config): clean up model enum list (#31)
+2026-03-03 - feat(tests): update mock server
+2026-03-02 - fix(tools): use filtered messages list in async compaction (#1124)
+2026-02-26 -  fix(tool runner): propagate container_id for programmatic tool calling (#1462)
+2026-02-26 - chore(ci): bump uv version
+2026-02-25 - codegen metadata
+2026-02-25 - codegen metadata
+2026-02-25 - codegen metadata
+2026-02-25 - release: 0.84.0
+
+=== OPENAI SDK PYTHON (últimos 25 commits) ===
+2026-03-28 - Pin GitHub Actions workflow references (#3021)
+2026-03-25 - release: 2.30.0
+2026-03-25 - fix(api): align SDK response types with expanded item schemas
+2026-03-25 - feat(api): add keys field to Click/DoubleClick/Drag/Move/Scroll computer actions
+2026-03-24 - chore(tests): bump steady to v0.19.7
+2026-03-24 - chore(ci): skip lint on metadata-only changes
+2026-03-23 - chore(tests): bump steady to v0.19.6
+2026-03-23 - fix(types): make type required in ResponseInputMessageItem
+2026-03-23 - chore(internal): update gitignore
+2026-03-20 - chore(tests): bump steady to v0.19.5
+2026-03-20 - chore(tests): bump steady to v0.19.4
+2026-03-19 - refactor(tests): switch from prism to steady
+2026-03-19 - fix: sanitize endpoint path params
+2026-03-17 - release: 2.29.0
+2026-03-17 - feat(api): 5.4 nano and mini model slugs
+2026-03-16 - feat(api): add in and nin operators to ComparisonFilter type
+2026-03-16 - chore(internal): tweak CI branches
+2026-03-16 - fix(deps): bump minimum typing-extensions version
+2026-03-16 - fix(pydantic): do not pass `by_alias` unless set
+2026-03-16 - codegen metadata
+2026-03-16 - codegen metadata
+2026-03-14 - feat(api): add defer_loading field to ToolFunction
+2026-03-14 - feat(api): add /v1/videos endpoint to batches create method
+2026-03-13 - codegen metadata
+2026-03-13 - release: 2.28.0
+
+=== GOOGLE GEMINI SDK (últimos 20 commits) ===
