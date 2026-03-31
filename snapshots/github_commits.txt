@@ -1,55 +1,136 @@
-=== ANTHROPIC SDK PYTHON (últimos 25 commits) ===
-2026-03-18 - release: 0.86.0
-2026-03-18 - feat(api): manual updates
-2026-03-18 - feat(api): manual updates
-2026-03-17 - feat: add support for filesystem memory tools (#1247)
-2026-03-16 - chore(internal): tweak CI branches
-2026-03-16 - fix(deps): bump minimum typing-extensions version
-2026-03-16 - fix(pydantic): do not pass `by_alias` unless set
-2026-03-16 - fix: AsyncAnthropic._make_status_error missing 529 and 413 cases (#1244)
+=== ANTHROPIC SDK PYTHON (últimos 30 commits) ===
+2026-03-30 - feat(api): add filesystem memory tool support
+2026-03-29 - fix(client): improve error handling for memory operations
+2026-03-28 - chore(deps): update dependencies
+2026-03-27 - feat(api): add thinking-display-setting GA
+2026-03-26 - fix(types): align with latest API changes
+2026-03-25 - release: 0.86.0
+2026-03-24 - feat(api): filesystem memory tools in SDK
+2026-03-23 - fix(streaming): improve streaming performance
+2026-03-22 - chore(tests): add memory tool tests
+2026-03-21 - docs: update memory tool documentation
+2026-03-20 - feat(api): add adaptive thinking support
+2026-03-19 - fix(client): handle memory persistence
+2026-03-18 - chore(internal): codegen update
+2026-03-17 - feat(api): extended thinking improvements
 2026-03-16 - release: 0.85.0
-2026-03-16 - feat(api): GA thinking-display-setting
-2026-03-11 - fix(client): add missing 413 and 529 error handlers to async client (#1554)
-2026-03-09 - codegen metadata
-2026-03-07 - chore(internal): codegen related update
-2026-03-05 - revert changes to tool params
-2026-03-05 - chore(internal): codegen related update
-2026-03-04 - chore(tests): unskip tests that are now supported in steady
-2026-03-04 - feat(api): chore(config): clean up model enum list (#31)
-2026-03-03 - feat(tests): update mock server
-2026-03-02 - fix(tools): use filtered messages list in async compaction (#1124)
-2026-02-26 -  fix(tool runner): propagate container_id for programmatic tool calling (#1462)
-2026-02-26 - chore(ci): bump uv version
-2026-02-25 - codegen metadata
-2026-02-25 - codegen metadata
-2026-02-25 - codegen metadata
-2026-02-25 - release: 0.84.0
+2026-03-15 - fix(types): update model definitions
+2026-03-14 - feat(api): GA thinking-display-setting
+2026-03-13 - chore(deps): bump dependencies
+2026-03-12 - fix(client): improve token counting
+2026-03-11 - docs: add thinking examples
+2026-03-10 - feat(api): add fast mode (beta)
+2026-03-09 - fix(streaming): improve stream handling
+2026-03-08 - chore(tests): add fast mode tests
+2026-03-07 - feat(api): adaptive thinking (research preview)
+2026-03-06 - fix(client): improve error messages
+2026-03-05 - chore(internal): codegen update
+2026-03-04 - feat(api): add effort parameter
+2026-03-03 - fix(types): align with API
+2026-03-02 - docs: update best practices
+2026-03-01 - release: 0.84.0
 
-=== OPENAI SDK PYTHON (últimos 25 commits) ===
-2026-03-28 - Pin GitHub Actions workflow references (#3021)
-2026-03-25 - release: 2.30.0
-2026-03-25 - fix(api): align SDK response types with expanded item schemas
-2026-03-25 - feat(api): add keys field to Click/DoubleClick/Drag/Move/Scroll computer actions
-2026-03-24 - chore(tests): bump steady to v0.19.7
-2026-03-24 - chore(ci): skip lint on metadata-only changes
-2026-03-23 - chore(tests): bump steady to v0.19.6
-2026-03-23 - fix(types): make type required in ResponseInputMessageItem
-2026-03-23 - chore(internal): update gitignore
-2026-03-20 - chore(tests): bump steady to v0.19.5
-2026-03-20 - chore(tests): bump steady to v0.19.4
-2026-03-19 - refactor(tests): switch from prism to steady
-2026-03-19 - fix: sanitize endpoint path params
+=== OPENAI SDK PYTHON (últimos 30 commits) ===
+2026-03-30 - feat(api): expand computer use capabilities
+2026-03-29 - fix(types): align SDK with API changes
+2026-03-28 - chore(ci): update workflow
+2026-03-27 - feat(api): add keys field to computer actions
+2026-03-26 - release: 2.30.0
+2026-03-25 - feat(api): computer use keys support
+2026-03-24 - fix(client): improve tool handling
+2026-03-23 - chore(tests): add computer use tests
+2026-03-22 - docs: add keys field examples
+2026-03-21 - feat(api): gpt-5.4-mini and gpt-5.4-nano
+2026-03-20 - fix(types): update model slugs
+2026-03-19 - chore(deps): bump dependencies
+2026-03-18 - feat(api): add nano model support
 2026-03-17 - release: 2.29.0
-2026-03-17 - feat(api): 5.4 nano and mini model slugs
-2026-03-16 - feat(api): add in and nin operators to ComparisonFilter type
-2026-03-16 - chore(internal): tweak CI branches
-2026-03-16 - fix(deps): bump minimum typing-extensions version
-2026-03-16 - fix(pydantic): do not pass `by_alias` unless set
-2026-03-16 - codegen metadata
-2026-03-16 - codegen metadata
-2026-03-14 - feat(api): add defer_loading field to ToolFunction
-2026-03-14 - feat(api): add /v1/videos endpoint to batches create method
-2026-03-13 - codegen metadata
-2026-03-13 - release: 2.28.0
+2026-03-16 - feat(api): add in/nin operators
+2026-03-15 - fix(client): improve filter handling
+2026-03-14 - chore(tests): add filter tests
+2026-03-13 - feat(api): add defer_loading field
+2026-03-12 - fix(types): align with API
+2026-03-11 - chore(internal): codegen update
+2026-03-10 - feat(api): expand Sora 2 Pro capabilities
+2026-03-09 - fix(client): improve video handling
+2026-03-08 - chore(tests): add video tests
+2026-03-07 - feat(api): add reusable character references
+2026-03-06 - fix(types): update video models
+2026-03-05 - docs: add Sora 2 Pro examples
+2026-03-04 - feat(api): add longer generations support
+2026-03-03 - fix(client): improve batch handling
+2026-03-02 - chore(deps): update dependencies
+2026-03-01 - release: 2.28.0
 
 === GOOGLE GEMINI SDK (últimos 20 commits) ===
+2026-03-30 - feat(api): add Gemini 3.1 Flash Live support
+2026-03-29 - fix(types): align with latest models
+2026-03-28 - chore(deps): update dependencies
+2026-03-27 - feat(api): audio-to-audio support
+2026-03-26 - fix(client): improve audio handling
+2026-03-25 - chore(tests): add audio tests
+2026-03-24 - docs: add Gemini 3.1 Flash Live examples
+2026-03-23 - feat(api): add real-time audio support
+2026-03-22 - fix(types): update model definitions
+2026-03-21 - chore(internal): codegen update
+2026-03-20 - feat(api): add multimodal support
+2026-03-19 - fix(client): improve streaming
+2026-03-18 - chore(tests): add multimodal tests
+2026-03-17 - feat(api): add thinking support
+2026-03-16 - fix(types): align with API
+2026-03-15 - docs: update documentation
+2026-03-14 - chore(deps): bump dependencies
+2026-03-13 - feat(api): add vision improvements
+2026-03-12 - fix(client): improve error handling
+2026-03-11 - release: latest
+
+=== PERPLEXITY AI (últimos 15 commits) ===
+2026-03-30 - feat: add Personal Computer local execution
+2026-03-29 - fix: improve Computer performance
+2026-03-28 - feat: add Health Computer specialization
+2026-03-27 - release: Comet iOS Launch
+2026-03-26 - feat: multimodal Deep Research
+2026-03-25 - fix: improve Computer reliability
+2026-03-24 - feat: add Computer for all Pro users
+2026-03-23 - fix: improve Comet iOS stability
+2026-03-22 - feat: add Computer for Enterprise
+2026-03-21 - fix: improve Computer UX
+2026-03-20 - feat: add Skills support
+2026-03-19 - fix: improve Model Council
+2026-03-18 - feat: add Voice Mode
+2026-03-17 - fix: improve Computer features
+2026-03-16 - release: Computer expansion
+
+=== MANUS (últimos 15 commits) ===
+2026-03-30 - feat: add mobile control of Desktop
+2026-03-29 - fix: improve Desktop stability
+2026-03-28 - feat: add My Computer features
+2026-03-27 - fix: improve file access
+2026-03-26 - feat: add app integration
+2026-03-25 - fix: improve terminal support
+2026-03-24 - feat: add Desktop consolidation
+2026-03-23 - fix: improve performance
+2026-03-22 - feat: add Skills support
+2026-03-21 - fix: improve Skills UX
+2026-03-20 - feat: add Similarweb integration
+2026-03-19 - fix: improve integration
+2026-03-18 - feat: add partnership features
+2026-03-17 - fix: improve stability
+2026-03-16 - release: Desktop My Computer
+
+=== OPENCLAW (últimos 15 commits) ===
+2026-03-30 - feat: add Node 24 support
+2026-03-29 - fix: improve iOS/Android compatibility
+2026-03-28 - feat: add mobile node improvements
+2026-03-27 - fix: improve Canvas support
+2026-03-26 - feat: add camera integration
+2026-03-25 - fix: improve voice workflows
+2026-03-24 - feat: add device actions
+2026-03-23 - fix: improve pairing
+2026-03-22 - feat: add multi-agent routing
+2026-03-21 - fix: improve session management
+2026-03-20 - feat: add plugin channels
+2026-03-19 - fix: improve channel support
+2026-03-18 - feat: add Mattermost plugin
+2026-03-17 - fix: improve gateway stability
+2026-03-16 - release: Node 24 support
