@@ -87,7 +87,7 @@ Termos de Serviço
 Regiões disponíveis
 Monitoramento de abuso
 Informações de feedback
-Teste o novo modelo de áudio para áudio do Gemini 3.1 Flash Live no AI Studio.
+Teste o novo modelo Veo 3.1 Lite de alta velocidade e econômico para geração de vídeos em grande escala.
 Página inicial
 Gemini API
 Documentos

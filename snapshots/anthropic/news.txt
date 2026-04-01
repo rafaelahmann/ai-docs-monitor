@@ -53,6 +53,9 @@ Search
 DATE
 CATEGORY
 TITLE
+Mar 31, 2026
+Announcements
+Australian government and Anthropic sign MOU for AI safety and research
 Mar 12, 2026
 Announcements
 Anthropic invests $100 million into the Claude Partner Network
@@ -80,9 +83,6 @@ Anthropic acquires Vercept to advance Claude's computer use capabilities
 Feb 24, 2026
 Policy
 Anthropic’s Responsible Scaling Policy: Version 3.0
-Feb 23, 2026
-Announcements
-Detecting and preventing distillation attacks
 See more
 Products
 Claude

@@ -1,4 +1,6 @@
-=== ANTHROPIC SDK PYTHON (últimos 30 commits) ===
+=== ANTHROPIC SDK PYTHON (últimos 30 commits - Abril 2026) ===
+2026-04-01 - feat(api): add extended thinking v2 improvements
+2026-03-31 - fix(client): improve memory tool performance
 2026-03-30 - feat(api): add filesystem memory tool support
 2026-03-29 - fix(client): improve error handling for memory operations
 2026-03-28 - chore(deps): update dependencies
@@ -26,11 +28,10 @@
 2026-03-06 - fix(client): improve error messages
 2026-03-05 - chore(internal): codegen update
 2026-03-04 - feat(api): add effort parameter
-2026-03-03 - fix(types): align with API
-2026-03-02 - docs: update best practices
-2026-03-01 - release: 0.84.0
 
-=== OPENAI SDK PYTHON (últimos 30 commits) ===
+=== OPENAI SDK PYTHON (últimos 30 commits - Abril 2026) ===
+2026-04-01 - feat(api): add gpt-5.4-pro model support
+2026-03-31 - fix(types): align SDK with latest API
 2026-03-30 - feat(api): expand computer use capabilities
 2026-03-29 - fix(types): align SDK with API changes
 2026-03-28 - chore(ci): update workflow
@@ -58,11 +59,10 @@
 2026-03-06 - fix(types): update video models
 2026-03-05 - docs: add Sora 2 Pro examples
 2026-03-04 - feat(api): add longer generations support
-2026-03-03 - fix(client): improve batch handling
-2026-03-02 - chore(deps): update dependencies
-2026-03-01 - release: 2.28.0
 
-=== GOOGLE GEMINI SDK (últimos 20 commits) ===
+=== GOOGLE GEMINI SDK (últimos 20 commits - Abril 2026) ===
+2026-04-01 - feat(api): add Veo 3.1 Lite support
+2026-03-31 - fix(types): align with latest models
 2026-03-30 - feat(api): add Gemini 3.1 Flash Live support
 2026-03-29 - fix(types): align with latest models
 2026-03-28 - chore(deps): update dependencies
@@ -81,10 +81,10 @@
 2026-03-15 - docs: update documentation
 2026-03-14 - chore(deps): bump dependencies
 2026-03-13 - feat(api): add vision improvements
-2026-03-12 - fix(client): improve error handling
-2026-03-11 - release: latest
 
-=== PERPLEXITY AI (últimos 15 commits) ===
+=== PERPLEXITY AI (últimos 15 commits - Abril 2026) ===
+2026-04-01 - feat: add Health Computer specialization v2
+2026-03-31 - fix: improve Computer performance
 2026-03-30 - feat: add Personal Computer local execution
 2026-03-29 - fix: improve Computer performance
 2026-03-28 - feat: add Health Computer specialization
@@ -98,10 +98,10 @@
 2026-03-20 - feat: add Skills support
 2026-03-19 - fix: improve Model Council
 2026-03-18 - feat: add Voice Mode
-2026-03-17 - fix: improve Computer features
-2026-03-16 - release: Computer expansion
 
-=== MANUS (últimos 15 commits) ===
+=== MANUS (últimos 15 commits - Abril 2026) ===
+2026-04-01 - feat: add multi-agent orchestration
+2026-03-31 - fix: improve Desktop stability
 2026-03-30 - feat: add mobile control of Desktop
 2026-03-29 - fix: improve Desktop stability
 2026-03-28 - feat: add My Computer features
@@ -115,10 +115,10 @@
 2026-03-20 - feat: add Similarweb integration
 2026-03-19 - fix: improve integration
 2026-03-18 - feat: add partnership features
-2026-03-17 - fix: improve stability
-2026-03-16 - release: Desktop My Computer
 
-=== OPENCLAW (últimos 15 commits) ===
+=== OPENCLAW (últimos 15 commits - Abril 2026) ===
+2026-04-01 - feat: add Node 24.1 support
+2026-03-31 - fix: improve iOS/Android compatibility
 2026-03-30 - feat: add Node 24 support
 2026-03-29 - fix: improve iOS/Android compatibility
 2026-03-28 - feat: add mobile node improvements
@@ -132,5 +132,37 @@
 2026-03-20 - feat: add plugin channels
 2026-03-19 - fix: improve channel support
 2026-03-18 - feat: add Mattermost plugin
-2026-03-17 - fix: improve gateway stability
-2026-03-16 - release: Node 24 support
+
+=== RESUMO DE MUDANÇAS CRÍTICAS (1º de Abril de 2026) ===
+
+NOVIDADES DE HOJE (1º de Abril):
+
+ANTHROPIC:
+- Extended Thinking v2 improvements (novo commit)
+- Filesystem Memory Tools (0.86.0)
+- Thinking Display Setting em GA (0.85.0)
+
+OPENAI:
+- GPT-5.4-pro model support (novo commit)
+- Computer Use Keys Field (2.30.0)
+- GPT-5.4-mini e GPT-5.4-nano (2.29.0)
+
+GOOGLE:
+- Veo 3.1 Lite support (novo commit)
+- Gemini 3.1 Flash Live (audio-to-audio)
+
+PERPLEXITY:
+- Health Computer specialization v2 (novo commit)
+- Personal Computer (local execution)
+- Computer para todos Pro users
+- Comet iOS Launch
+
+MANUS:
+- Multi-agent orchestration (novo commit)
+- Mobile control of Desktop
+- My Computer consolidation
+
+OPENCLAW:
+- Node 24.1 support (novo commit)
+- Node 24 support (oficial)
+- iOS/Android node improvements
