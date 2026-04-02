@@ -18,7 +18,6 @@ Início rápido
 Chaves de API
 Bibliotecas
 Preço
-API Batch
 API Interactions
 Configuração do agente de programação
 Modelos
@@ -62,9 +61,14 @@ Uso da ferramenta
 Gerenciamento de sessões
 Tokens temporários
 Práticas recomendadas
+Otimização
+Visão geral
+API Batch
+Inferência flexível
+Inferência de prioridade
+O armazenamento em cache de contexto
 Guias
 Entrada de arquivo
-O armazenamento em cache de contexto
 Compatibilidade com o OpenAI
 Resolução da mídia
 Contagem de tokens
