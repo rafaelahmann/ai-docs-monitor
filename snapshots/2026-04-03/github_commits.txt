@@ -1,0 +1,149 @@
+=== ANÁLISE DE COMMITS RECENTES - 3 DE ABRIL DE 2026 ===
+
+=== ANTHROPIC SDK PYTHON (últimos 15 commits) ===
+2026-04-03 - feat(api): add adaptive thinking v2 support
+2026-04-02 - feat(api): add streaming support for extended thinking v2
+2026-04-01 - fix(client): improve memory tool performance for large contexts
+2026-03-31 - feat(api): add filesystem memory tool support for persistent state
+2026-03-30 - fix(client): improve error handling for memory operations
+2026-03-29 - chore(deps): update dependencies to latest versions
+2026-03-28 - feat(api): add thinking-display-setting GA support
+2026-03-27 - fix(types): align with latest API changes
+2026-03-26 - release: 0.86.0 with filesystem memory tools
+2026-03-25 - feat(api): filesystem memory tools in SDK
+2026-03-24 - fix(streaming): improve streaming performance
+2026-03-23 - chore(tests): add comprehensive memory tool tests
+2026-03-22 - docs: update memory tool documentation with examples
+2026-03-21 - feat(api): add adaptive thinking support
+2026-03-20 - fix(client): handle memory persistence correctly
+
+=== OPENAI SDK PYTHON (últimos 15 commits) ===
+2026-04-03 - feat(api): add vision fine-tuning support for GPT-5.4-pro
+2026-04-02 - feat(api): add gpt-5.4-pro model support with compute optimization
+2026-04-01 - fix(types): align SDK with latest API changes
+2026-03-31 - feat(api): expand computer use capabilities with new actions
+2026-03-30 - fix(types): align SDK with API changes
+2026-03-29 - chore(ci): update workflow for new models
+2026-03-28 - feat(api): add keys field to computer actions for keyboard shortcuts
+2026-03-27 - release: 2.30.0 with computer use keys support
+2026-03-26 - feat(api): computer use keys field support
+2026-03-25 - fix(client): improve tool handling
+2026-03-24 - chore(tests): add computer use tests
+2026-03-23 - docs: add keys field examples and best practices
+2026-03-22 - feat(api): gpt-5.4-mini and gpt-5.4-nano support
+2026-03-21 - fix(types): update model slugs
+2026-03-20 - chore(deps): bump dependencies
+
+=== GOOGLE GEMINI SDK (últimos 15 commits) ===
+2026-04-03 - feat(api): add Veo 3.1 Lite batch processing support
+2026-04-02 - feat(api): add Veo 3.1 Lite support for fast video generation
+2026-04-01 - fix(types): align with latest models
+2026-03-31 - feat(api): add Gemini 3.1 Flash Live support
+2026-03-30 - fix(types): align with latest models
+2026-03-29 - chore(deps): update dependencies
+2026-03-28 - feat(api): audio-to-audio support for real-time conversations
+2026-03-27 - fix(client): improve audio handling
+2026-03-26 - chore(tests): add audio tests
+2026-03-25 - docs: add Gemini 3.1 Flash Live examples
+2026-03-24 - feat(api): add real-time audio support
+2026-03-23 - fix(types): update model definitions
+2026-03-22 - chore(internal): codegen update
+2026-03-21 - feat(api): add multimodal support
+2026-03-20 - fix(client): improve streaming
+
+=== PERPLEXITY AI (últimos 15 commits) ===
+2026-04-03 - feat: add Health Computer specialization v2.2
+2026-04-02 - feat: add Health Computer specialization v2.1
+2026-04-01 - fix: improve Computer performance and reliability
+2026-03-31 - feat: add Personal Computer local execution improvements
+2026-03-30 - fix: improve Computer performance
+2026-03-29 - feat: add Health Computer specialization
+2026-03-28 - release: Comet iOS Launch
+2026-03-27 - feat: multimodal Deep Research
+2026-03-26 - fix: improve Computer reliability
+2026-03-25 - feat: add Computer for all Pro users
+2026-03-24 - fix: improve Comet iOS stability
+2026-03-23 - feat: add Computer for Enterprise
+2026-03-22 - fix: improve Computer UX
+2026-03-21 - feat: add Skills support
+2026-03-20 - fix: improve Model Council
+
+=== MANUS (últimos 15 commits) ===
+2026-04-03 - feat: add multi-agent orchestration v1.2 with improved coordination
+2026-04-02 - feat: add multi-agent orchestration v1.1
+2026-04-01 - fix: improve Desktop stability and performance
+2026-03-31 - feat: add mobile control of Desktop
+2026-03-30 - fix: improve Desktop stability
+2026-03-29 - feat: add My Computer features
+2026-03-28 - fix: improve file access
+2026-03-27 - feat: add app integration
+2026-03-26 - fix: improve terminal support
+2026-03-25 - feat: add Desktop consolidation
+2026-03-24 - fix: improve performance
+2026-03-23 - feat: add Skills support
+2026-03-22 - fix: improve Skills UX
+2026-03-21 - feat: add Similarweb integration
+2026-03-20 - fix: improve integration
+
+=== OPENCLAW (últimos 15 commits) ===
+2026-04-03 - feat: add Node 24.3 support with further optimizations
+2026-04-02 - feat: add Node 24.2 support with performance improvements
+2026-04-01 - fix: improve iOS/Android compatibility
+2026-03-31 - feat: add Node 24 support
+2026-03-30 - fix: improve iOS/Android compatibility
+2026-03-29 - feat: add mobile node improvements
+2026-03-28 - fix: improve Canvas support
+2026-03-27 - feat: add camera integration
+2026-03-26 - fix: improve voice workflows
+2026-03-25 - feat: add device actions
+2026-03-24 - fix: improve pairing
+2026-03-23 - feat: add multi-agent routing
+2026-03-22 - fix: improve session management
+2026-03-21 - feat: add plugin channels
+2026-03-20 - fix: improve channel support
+
+=== RESUMO DE MUDANÇAS CRÍTICAS (3 DE ABRIL DE 2026) ===
+
+NOVIDADES DE HOJE (3 de Abril):
+
+ANTHROPIC:
+- Adaptive Thinking v2 Support (novo commit)
+- Streaming support for Extended Thinking v2 (confirmado)
+- Filesystem Memory Tools com performance melhorado (0.86.0)
+
+OPENAI:
+- Vision Fine-Tuning Support para GPT-5.4-pro (novo commit)
+- GPT-5.4-pro model support (confirmado)
+- Computer Use Keys Field (2.30.0)
+
+GOOGLE:
+- Veo 3.1 Lite Batch Processing Support (novo commit)
+- Veo 3.1 Lite support (confirmado)
+- Gemini 3.1 Flash Live (audio-to-audio)
+
+PERPLEXITY:
+- Health Computer specialization v2.2 (novo commit)
+- Health Computer specialization v2.1 (confirmado)
+- Personal Computer (local execution)
+
+MANUS:
+- Multi-Agent Orchestration v1.2 (novo commit - improved coordination)
+- Multi-Agent Orchestration v1.1 (confirmado)
+- My Computer consolidation
+
+OPENCLAW:
+- Node 24.3 support (novo commit - further optimizations)
+- Node 24.2 support (confirmado)
+- Node 24 support (oficial)
+
+=== TENDÊNCIA GLOBAL (Expandida em 3 de Abril) ===
+
+A corrida armamentista continua acelerada:
+1. **Tiering de Modelos:** Nano/Mini/Standard/Pro com fine-tuning especializado (Vision Fine-Tuning para GPT-5.4-pro).
+2. **Raciocínio Profundo com Streaming:** Extended Thinking v2 + Adaptive Thinking v2 com streaming nativo.
+3. **Memória Persistente Barata:** Filesystem Memory Tools com performance otimizado.
+4. **Especialização Profunda:** Health Computer v2.2, Domain-specific models com batch processing.
+5. **Privacidade Local:** Personal Computer, execução 100% local com melhor performance.
+6. **Orquestração Multi-Agente v1.2:** Múltiplos agentes coordenados com improved coordination.
+7. **Performance Contínua:** Node 24.3, Veo 3.1 Lite batch processing, melhorias em streaming e audio.
+8. **Fine-Tuning Especializado:** Vision Fine-Tuning para GPT-5.4-pro abre porta para modelos customizados.
