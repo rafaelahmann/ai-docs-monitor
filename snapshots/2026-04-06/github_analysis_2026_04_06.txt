@@ -1,0 +1,26 @@
+=== ANTHROPIC SDK PYTHON (últimos 15 commits) ===
+https://api.github.com/repos/anthropics/anthropic-sdk-python/commits?per_page=15
+
+=== ANTHROPIC SDK JS (últimos 15 commits) ===
+https://api.github.com/repos/anthropics/anthropic-sdk-js/commits?per_page=15
+
+=== OPENAI SDK PYTHON (últimos 15 commits) ===
+https://api.github.com/repos/openai/openai-python/commits?per_page=15
+
+=== OPENAI SDK NODE (últimos 15 commits) ===
+https://api.github.com/repos/openai/openai-node/commits?per_page=15
+
+=== GOOGLE GENERATIVE AI PYTHON (últimos 15 commits) ===
+https://api.github.com/repos/google/generative-ai-python/commits?per_page=15
+
+=== GOOGLE GENERATIVE AI JS (últimos 15 commits) ===
+https://api.github.com/repos/google/generative-ai-js/commits?per_page=15
+
+=== PERPLEXITY AI (últimos 15 commits) ===
+https://api.github.com/repos/perplexity-ai/perplexity-sdk/commits?per_page=15
+
+=== MANUS SDK (últimos 15 commits) ===
+https://api.github.com/repos/manus-ai/manus-sdk/commits?per_page=15
+
+=== OPENCLAW (últimos 15 commits) ===
+https://api.github.com/repos/openclaw/openclaw/commits?per_page=15
