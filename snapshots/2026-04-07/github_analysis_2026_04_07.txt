@@ -1,0 +1,37 @@
+=== ANÁLISE DE COMMITS RECENTES (7 DE ABRIL DE 2026) ===
+
+ANTHROPIC SDK PYTHON:
+- Última atualização: Suporte a Fast Mode e Adaptive Thinking
+- Commits recentes focados em: Effort parameter, Thinking v2, Tool use improvements
+
+ANTHROPIC SDK JS:
+- Última atualização: Suporte a Fast Mode e Adaptive Thinking
+- Commits recentes focados em: API parity com Python SDK
+
+OPENAI SDK PYTHON:
+- Última atualização: GPT-5.4 Mini/Nano support
+- Commits recentes focados em: Tool Search, Computer Use, Compaction
+
+OPENAI SDK NODE:
+- Última atualização: GPT-5.4 Mini/Nano support
+- Commits recentes focados em: Responses API improvements
+
+GOOGLE GENERATIVE AI PYTHON:
+- Última atualização: Veo 3.1 Lite support
+- Commits recentes focados em: Video generation, Gemini 3.1 Pro
+
+GOOGLE GENERATIVE AI JS:
+- Última atualização: Veo 3.1 Lite support
+- Commits recentes focados em: API parity
+
+PERPLEXITY SDK:
+- Última atualização: Computer updates
+- Commits recentes focados em: Personal Computer, Health Computer
+
+MANUS SDK:
+- Última atualização: Desktop Remote Control
+- Commits recentes focados em: My Computer, Mobile integration
+
+OPENCLAW:
+- Última atualização: Node 24 support
+- Commits recentes focados em: Multi-channel gateway, iOS/Android nodes
