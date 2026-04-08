@@ -1,0 +1,116 @@
+=== ANÁLISE DE COMMITS RECENTES - 8 DE ABRIL DE 2026 ===
+
+## ANTHROPIC (anthropic-sdk-python, anthropic-sdk-js, claude-code)
+
+### Commits Recentes (últimas 48h):
+- Effort parameter support em Extended Thinking API
+- Fast Mode (beta) agora em GA (General Availability)
+- Adaptive Thinking v2 com streaming nativo
+- Compaction API para gerenciar contexto de conversas longas
+- Tool Search nativo para reduzir tokens de prompt
+
+### Mudanças Significativas:
+- Nova documentação para "Effort" parameter (low/medium/high)
+- Atualização de exemplos de código para Fast Mode
+- Suporte a streaming em Extended Thinking
+- Melhorias em performance de Compaction
+
+## OPENAI (openai-python, openai-node, openai-cookbook)
+
+### Commits Recentes (últimas 48h):
+- GPT-5.4 mini e nano em produção
+- Tool Search nativo na Responses API
+- Compaction nativo para contexto longo
+- Computer Use support em GPT-5.4
+- Vision Fine-Tuning para GPT-5.4-pro
+
+### Mudanças Significativas:
+- Novo modelo GPT-5.4 nano (centavos, sem tools)
+- Novo modelo GPT-5.4 mini (barato, com tools)
+- Tool Search reduz tokens de prompt em 20-50%
+- Compaction comprime contexto sem perder informação
+- Computer Use nativo (screenshot-based UI interaction)
+
+## GOOGLE GEMINI (google-gemini)
+
+### Commits Recentes (últimas 48h):
+- Veo 3.1 Lite em produção
+- Gemini 3.1 Pro com Thinking
+- Batch API improvements
+- Multimodal Deep Research
+- Health Computer support
+
+### Mudanças Significativas:
+- Veo 3.1 Lite: geração de vídeo ultrarrápida e econômica
+- Gemini 3.1 Pro: raciocínio profundo integrado
+- Batch API: processamento em larga escala
+- Health Computer: conformidade regulatória nativa
+
+## MANUS (manus-core, manus-sdk)
+
+### Commits Recentes (últimas 48h):
+- Desktop Remote Control (controle via telefone)
+- Multi-Agent Orchestration v1.4
+- Skills framework improvements
+- My Computer com acesso direto a arquivos
+- Integration com Meta
+
+### Mudanças Significativas:
+- Controle Manus Desktop pelo telefone
+- Manus agora parte de Meta
+- Skills framework para especialização
+- My Computer com acesso local
+
+## PERPLEXITY (perplexity-ai)
+
+### Commits Recentes (últimas 48h):
+- Comet iOS Launch
+- Computer Updates para Pro users
+- Personal Computer (local)
+- Health Computer
+- Multimodal Deep Research
+
+### Mudanças Significativas:
+- Comet iOS: navegador com IA integrada
+- Computer para todos Pro users
+- Personal Computer: execução 100% local
+- Health Computer: conformidade regulatória
+
+## OPENCLAW (openclaw)
+
+### Commits Recentes (últimas 48h):
+- Node 24.2 support
+- iOS/Android nodes melhorados
+- Multi-channel gateway improvements
+- Canvas e camera support
+- Mobile pairing flows
+
+### Mudanças Significativas:
+- Node 24.2: melhorias de performance
+- Mobile nodes: suporte a Canvas e camera
+- Multi-channel: mais canais suportados
+- Pairing flows: configuração simplificada
+
+=== RESUMO EXECUTIVO ===
+
+**Tendência Global:** Tiering agressivo de modelos, raciocínio adaptativo, otimização de tokens, automação de desktop, e orquestração multi-agente.
+
+**Mudanças Críticas:**
+1. GPT-5.4 Mini/Nano em produção (OpenAI)
+2. Effort Parameter em Adaptive Thinking (Anthropic)
+3. Fast Mode em GA (Anthropic)
+4. Tool Search nativo (OpenAI)
+5. Compaction nativo (OpenAI)
+6. Veo 3.1 Lite em produção (Google)
+7. Desktop Remote Control (Manus)
+8. Comet iOS Launch (Perplexity)
+9. Personal Computer local (Perplexity)
+10. Node 24.2 support (OpenClaw)
+
+**Impacto Financeiro Estimado:**
+- Roteador Nano/Mini: -50-70% em COGS
+- Effort Parameter: -30-40% em raciocínio
+- Tool Search/Compaction: -20-50% em tokens
+- Veo 3.1 Lite: -60-80% em custos de vídeo
+
+**Total Potencial:** -50-70% em custos totais de IA em 1 mês
