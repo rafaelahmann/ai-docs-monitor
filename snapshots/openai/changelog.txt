@@ -27,14 +27,21 @@ Audio and speech
 Structured output
 Function calling
 Responses API
-Agents
-Overview
-Build agents
-Deploy in your product
-Optimize
-Voice agents
-Tools
 Using tools
+Agents SDK
+Overview
+Quickstart
+Agent definitions
+Models and providers
+Running agents
+Orchestration
+Guardrails
+Results and state
+Integrations and observability
+Evaluate agent workflows
+Voice agents
+Agent Builder
+Tools
 Web search
 MCP and Connectors
 Skills

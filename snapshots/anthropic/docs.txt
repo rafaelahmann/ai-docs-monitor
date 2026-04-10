@@ -4,11 +4,12 @@
 
 ---
 
-Developer Guide
+Messages
+Build
+Admin
+Models & pricing
+Client SDKs
 API Reference
-MCP
-Resources
-Release Notes
 English
 Log in
 Search...
@@ -16,18 +17,10 @@ Search...
 First steps
 Intro to Claude
 Quickstart
-Models & pricing
-Models overview
-Choosing a model
-What's new in Claude 4.6
-Migration guide
-Model deprecations
-Pricing
-Build with Claude
+Building with Claude
 Features overview
 Using the Messages API
 Handling stop reasons
-Prompting best practices
 Model capabilities
 Extended thinking
 Adaptive thinking
@@ -37,34 +30,23 @@ Structured outputs
 Citations
 Streaming Messages
 Batch processing
-PDF support
 Search results
+Streaming refusals
 Multilingual support
 Embeddings
-Vision
 Tools
 Overview
 How tool use works
-Tutorial: Build a tool-using agent
-Define tools
-Handle tool calls
-Parallel tool use
-Tool Runner (SDK)
-Strict tool use
-Tool use with prompt caching
-Server tools
-Troubleshooting
-Tool reference
 Web search tool
 Web fetch tool
 Code execution tool
+Advisor tool
 Memory tool
 Bash tool
 Computer use tool
 Text editor tool
 Tool infrastructure
-Manage tool context
-Tool combinations
+Tool reference
 Tool search
 Programmatic tool calling
 Fine-grained tool streaming
@@ -74,49 +56,37 @@ Compaction
 Context editing
 Prompt caching
 Token counting
-Files & assets
+Working with files
 Files API
-Agent Skills
+PDF support
+Images and vision
+Skills
 Overview
 Quickstart
 Best practices
 Skills for enterprise
-Claude API skill
-Using Skills with the API
-Agent SDK
-Overview
-Quickstart
-How the agent loop works
-Core concepts
-Guides
-SDK references
-MCP in the API
-MCP connector
+Skills in the API
+MCP
 Remote MCP servers
-Claude on 3rd-party platforms
-Amazon Bedrock
-Microsoft Foundry
-Vertex AI
+MCP connector
 Prompt engineering
 Overview
+Prompting best practices
 Console prompting tools
-Test & evaluate
+Test and evaluate
 Define success and build evaluations
-Using the Evaluation Tool
+Using the Evaluation Tool in Console
 Reducing latency
 Strengthen guardrails
 Reduce hallucinations
 Increase output consistency
 Mitigate jailbreaks
-Streaming refusals
 Reduce prompt leak
-Administration and monitoring
-Admin API overview
-Data residency
-Workspaces
-Usage and Cost API
-Claude Code Analytics API
-API and data retention
+Resources
+Glossary
+Use cases
+Release notes
+Claude Platform
 Console
 Claude Platform
 Start building
@@ -137,6 +107,7 @@ Ruby
 PHP
 C#
 cURL
+CLI
 import anthropic
 
 client = anthropic.Anthropic()
@@ -155,20 +126,20 @@ Choose how you build
 
 Pick the developer surface that matches your approach, and the infrastructure that fits your stack.
 
-Claude API
+Messages
 
-Send a request, get a response. You construct every turn, manage conversation state, and write your own tool loop.
+Direct model access. You construct every turn, manage conversation state, and write your own tool loop.
 
 Quickstart
 API reference
 Client SDKs
-Agent SDK
+Claude Managed Agents
 
-Claude Code as a library. Give Claude a task and the SDK runs the loop with built-in file, shell, and web tools.
+Fully managed agent infrastructure. Deploy and manage autonomous agents in stateful sessions with persistent event history.
 
-Agent SDK quickstart
-TypeScript Agent SDK
-Python Agent SDK
+Quickstart
+API reference
+Define your agent
 AWS Bedrock
 Google Cloud Vertex AI
 Microsoft Foundry
@@ -177,6 +148,8 @@ From idea to production
 
 Follow the lifecycle or jump to what you need.
 
+Messages
+Claude Managed Agents
 1
 Get started
 Quickstart
@@ -258,7 +231,6 @@ Amazon Bedrock
 Google Cloud's Vertex AI
 Learn
 Blog
-Catalog
 Courses
 Use cases
 Connectors
