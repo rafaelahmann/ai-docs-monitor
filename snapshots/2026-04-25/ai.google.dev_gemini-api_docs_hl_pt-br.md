@@ -1,0 +1,241 @@
+# Gemini API  |  Google AI for Developers
+
+**URL:** https://ai.google.dev/gemini-api/docs?hl=pt-br
+
+---
+
+Ir para o conteúdo principal
+/
+Conferir a chave de API
+Manual
+Comunidade
+Fazer login
+Documentos
+Referência da API
+Começar
+Visão geral
+Início rápido
+Chaves de API
+Bibliotecas
+Preço
+API Interactions
+Configuração do agente de programação
+Modelos
+Todos os modelos
+Gemini 3
+Nano Banana
+Veo
+Lyria 3
+Lyria RealTime
+Imagen
+Conversão texto em voz
+Embeddings
+Robótica
+Recursos principais
+Texto
+Imagem
+Vídeo
+Documentos
+Fala e áudio
+Thinking
+Saídas estruturadas
+Chamadas de função
+Contexto longo
+Agentes
+Visão geral
+Agente do Deep Research
+Ferramentas
+Visão geral
+Google Search
+Google Maps
+Execução de código
+Contexto do URL
+Uso de computador
+Pesquisa de arquivos
+Combinar ferramentas e chamadas de função
+API Live
+Visão geral
+Começar
+Recursos
+Uso da ferramenta
+Gerenciamento de sessões
+Tokens temporários
+Práticas recomendadas
+Otimização
+Visão geral
+API Batch
+Inferência flexível
+Inferência de prioridade
+O armazenamento em cache de contexto
+Guias
+Entrada de arquivo
+Compatibilidade com o OpenAI
+Resolução da mídia
+Contagem de tokens
+Engenharia de comando
+Registros e conjuntos de dados
+Segurança
+Frameworks
+Recursos
+Notas da versão
+Descontinuações
+Limites de taxas
+Informações de faturamento
+Migrar para o SDK de IA generativa
+Solução de problemas com APIs
+Integrações de parceiros e bibliotecas
+Google AI Studio
+Google Cloud Platform
+Políticas
+Termos de Serviço
+Regiões disponíveis
+Monitoramento de abuso
+Informações de feedback
+O Deep Research do Gemini já está disponível em pré-lançamento com planejamento colaborativo, visualização, suporte a MCP e muito mais.
+Página inicial
+Gemini API
+Documentos
+
+API Gemini
+
+Atualizamos nossos Termos de Serviço.
+
+O caminho mais rápido do comando à produção com o Gemini, o Veo, o Nano Banana e muito mais.
+
+Python
+JavaScript
+Go
+Java
+C#
+REST
+from google import genai
+
+client = genai.Client()
+
+response = client.models.generate_content(
+    model="gemini-3-flash-preview",
+    contents="Explain how AI works in a few words",
+)
+
+print(response.text)
+
+Comece a criar
+
+Siga nosso guia de início rápido para receber uma chave de API e fazer sua primeira chamada de API em minutos.
+
+Conheça os modelos
+Ver tudo
+
+auto_awesome
+Gemini 3.1 Pro
+Novo
+
+Nosso modelo mais inteligente, o melhor do mundo em compreensão multimodal, tudo criado com raciocínio de última geração.
+
+spark
+Gemini 3 Flash
+Novo
+
+Desempenho de ponta que rivaliza com modelos maiores a uma fração do custo.
+
+spark
+Gemini 3.1 Flash-Lite
+Novo
+
+Modelo de alto volume e sensível a custos com o desempenho e a qualidade da série Gemini 3.
+
+🍌
+🍌 Nano Banana 2 e Nano Banana Pro
+
+Modelos de edição e geração de imagens de última geração.
+
+video_library
+Veo 3.1
+
+Nosso modelo de geração de vídeos de última geração, com áudio nativo.
+
+spark
+Gemini Robotics
+
+Um modelo de visão-linguagem (VLM) que traz as habilidades agênticas do Gemini para a robótica e permite o raciocínio avançado no mundo físico.
+
+Conheça os recursos
+imagesmode
+
+Geração de imagens nativa (Nano Banana)
+
+Gere e edite imagens altamente contextuais de forma nativa com o Gemini 2.5 Flash Image.
+
+article
+
+Contexto longo
+
+Insira milhões de tokens nos modelos Gemini e extraia a compreensão de imagens, vídeos e documentos não estruturados.
+
+code
+
+Respostas estruturadas
+
+Restrinja o Gemini para responder com JSON, um formato de dados estruturado adequado para processamento automatizado.
+
+functions
+
+Chamadas de função
+
+Crie fluxos de trabalho de agentes conectando o Gemini a APIs e ferramentas externas.
+
+videocam
+
+Geração de vídeos com o Veo 3.1
+
+Crie conteúdo de vídeo de alta qualidade a partir de comandos de texto ou imagem com nosso modelo de última geração.
+
+android_recorder
+
+Agentes de voz com a API Live
+
+Crie aplicativos e agentes de voz em tempo real com a API Live.
+
+build
+
+Ferramentas
+
+Conecte o Gemini ao mundo usando ferramentas integradas, como a Pesquisa Google, o contexto de URL, o Google Maps, a execução de código e o uso do computador.
+
+stacks
+
+Document Understanding
+
+Processe até 1.000 páginas de arquivos PDF com compreensão multimodal completa ou outros tipos de arquivos baseados em texto.
+
+cognition_2
+
+Raciocínio
+
+Saiba como os recursos de pensamento melhoram o raciocínio para tarefas e agentes complexos.
+
+Google AI Studio
+
+Teste comandos, gerencie suas chaves de API, monitore o uso e crie protótipos.
+
+group
+Comunidade de desenvolvedores
+
+Faça perguntas e encontre soluções de outros desenvolvedores e engenheiros do Google.
+
+menu_book
+Referência da API
+
+Encontre informações detalhadas sobre a API Gemini na documentação de referência oficial.
+
+sensors
+Status
+
+Confira o status da API Gemini, do Google AI Studio e dos nossos serviços de modelo.
+
+Exceto em caso de indicação contrária, o conteúdo desta página é licenciado de acordo com a Licença de atribuição 4.0 do Creative Commons, e as amostras de código são licenciadas de acordo com a Licença Apache 2.0. Para mais detalhes, consulte as políticas do site do Google Developers. Java é uma marca registrada da Oracle e/ou afiliadas.
+
+Última atualização 2026-03-25 UTC.
+
+Termos de Serviço
+Privacidade
