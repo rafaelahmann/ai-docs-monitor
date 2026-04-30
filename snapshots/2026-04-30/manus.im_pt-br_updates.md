@@ -1,0 +1,48 @@
+# Atualizações - Manus
+
+**URL:** https://manus.im/pt-br/updates
+
+---
+
+Recursos
+Soluções
+Recursos
+Eventos
+Negócios
+Preços
+Português (Brasil)
+Começar
+
+Manus agora faz parte de Meta — levando IA para empresas em todo o mundo
+
+Atualizações de Manus
+30 mar 2026
+Controle o Manus Desktop pelo seu telefone
+Atribua uma tarefa pelo seu telefone e volte ao computador com o trabalho concluído.
+16 mar 2026
+Traga o Manus para o Seu Desktop
+Baixe o Manus Desktop para desbloquear Meu Computador, dando ao Manus acesso direto aos seus arquivos locais, aplicativos e ferramentas. Organize arquivos, renomeie projetos, construa aplicativos e execute tarefas diretamente na sua máquina.
+28 jan 2026
+Apresentando as Habilidades Manus
+Transforme sua IA em qualquer especialista que você precisar. Capture conhecimento especializado e expanda o Manus infinitamente.
+13 jan 2026
+Manus faz parceria com a Similarweb
+A análise competitiva ficou mais fácil. Pergunte ao Manus sobre o tráfego, classificações ou canais de marketing de qualquer site.
+29 dez 2025
+O Próximo Capítulo da Manus
+A Manus está se juntando à Meta. Nada muda para você — mesma equipe, mesmo produto, mesmo compromisso. Agora estamos melhor posicionados para levar agentes de IA geral a mais pessoas em todo o mundo.
+15 dez 2025
+Bem-vindo ao Manus 1.6
+Acabamos de lançar uma grande atualização com um novo agente principal, Manus 1.6 Max, além de desenvolvimento de aplicativos móveis e uma visualização de design interativa.
+4 dez 2025
+Nano Banana Pro agora no Slides
+O Nano Banana Pro do Google agora está integrado ao Manus Slides. Procure o ícone 🍌 para usá-lo em suas apresentações.
+18 nov 2025
+Apresentando o Operador de Navegador Manus
+O Manus agora pode realizar tarefas diretamente no seu navegador, de forma autônoma. Ele trabalha com segurança ao seu lado nas suas abas ativas, para que você não precise fazer login novamente ou configurar integrações complexas.
+12 nov 2025
+Comece a testar pagamentos instantaneamente com o Stripe
+No momento em que você habilitar pagamentos, Manus cria um ambiente temporário de sandbox do Stripe—assim você pode construir, testar e lançar seu fluxo de pagamento em minutos.
+16 out 2025
+Apresentando o Manus 1.5
+Lançamos o Manus 1.5: mais rápido, de maior qualidade, com contexto ilimitado e um criador atualizado para desenvolver aplicativos completos em um único prompt, incluindo backend, login, bancos de dados, recursos de IA, notificações e análises.
