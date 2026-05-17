@@ -1,0 +1,113 @@
+# Introduction - Manus API
+
+**URL:** https://open.manus.im/docs/v2/introduction
+
+---
+
+Skip to main content
+Manus API home page
+Search...
+Ctrl K
+Getting Started
+Introduction
+Authentication
+Task Lifecycle
+Connectors
+Webhooks Guide
+Agents
+Integrations
+Data Integrations
+Website
+Rate Limits
+Structured Output
+API Reference
+Tasks
+Projects
+Skills
+Agents
+Files
+Webhooks
+Usage
+Connectors
+Browser
+Website
+v2
+Getting Started
+Introduction
+
+Integrate Manus AI agents into your workflows with the Manus API
+
+Copy page
+Documentation Index
+
+Fetch the complete documentation index at: https://open.manus.ai/docs/llms.txt
+
+Use this file to discover all available pages before exploring further.
+
+Questions or issues? Contact us at api-support@manus.ai.
+You are viewing API v2 — the latest version of the Manus API. API v1 has been deprecated and will be removed in the future. If you still need the v1 docs, see API v1 documentation.
+​
+Manus API
+The Manus API allows you to programmatically create and manage AI agent tasks. Build automations, orchestrate multi-step workflows, and integrate Manus into your applications through a simple REST API.
+Get your API key
+Before making API calls, you’ll need to create an API key. Head over to Authentication to get started.
+​
+What you can do
+Tasks
+Create tasks, send follow-up messages, and retrieve results — full multi-turn conversation support
+Projects
+Organize tasks with shared instructions that apply automatically
+Files
+Upload files as task attachments — PDFs, images, CSVs, and more
+Webhooks
+Get real-time notifications when tasks complete or need input
+Skills
+Extend agent capabilities with built-in and custom skills
+Agents
+Manage and configure your custom agents
+​
+Base URL
+All API requests are made to:
+https://api.manus.ai
+
+​
+Response format
+All responses use a consistent wrapper:
+Success:
+{
+  "ok": true,
+  "request_id": "req_abc123",
+  ...
+}
+
+Error:
+{
+  "ok": false,
+  "request_id": "req_abc123",
+  "error": {
+    "code": "invalid_argument",
+    "message": "task_id is required"
+  }
+}
+
+Error code	Description
+invalid_argument	Missing or invalid request parameters
+not_found	The requested resource does not exist
+permission_denied	API key lacks permission for this action
+rate_limited	Too many requests — see Rate Limits for per-endpoint limits and backoff guidance
+
+Was this page helpful?
+
+Yes
+No
+Authentication
+Create and use API keys to authenticate with the Manus API
+Next
+Ctrl+I
+Powered by
+This documentation is built and hosted on Mintlify, a developer documentation platform
+On this page
+Manus API
+What you can do
+Base URL
+Response format
